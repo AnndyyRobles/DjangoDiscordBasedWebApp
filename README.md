@@ -1,4 +1,5 @@
 # Study Club Repository
+![principal](https://github.com/AnndyyRobles/DjangoDiscordBasedWebApp/blob/master/imgs/img1.jpg)
 ## Overview
 Study Club Repository is a Discord-based web application where users can create rooms, send messages, and tag them with different topics. It allows users to log in to use the application, facilitating study group discussions and topic-based conversations.
 
