@@ -39,12 +39,13 @@ python manage.py createsuperuser
 python manage.py runserver
 
 ### Open your browser and go to http://127.0.0.1:8000/ to see the application in action.
-
+![about](https://github.com/AnndyyRobles/DjangoDiscordBasedWebApp/blob/master/imgs/img3.jpg)
 ## Usage
 Creating Rooms: Log in and click on "Create Room" to start a new discussion room.
 Sending Messages: Enter a room and start sending messages to other participants.
 Tagging Messages: Use tags to organize messages by topics.
 Recent Activities: View recent activities and interactions on the right sidebar.
-
+![user](https://github.com/AnndyyRobles/DjangoDiscordBasedWebApp/blob/master/imgs/img2.jpg)
 ## Acknowledgments
 Developed by Andres Zahir Rodriguez Robles.
+![messages](https://github.com/AnndyyRobles/DjangoDiscordBasedWebApp/blob/master/imgs/img4.jpg)
