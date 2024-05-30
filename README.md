@@ -18,26 +18,32 @@ Virtualenv (recommended)
 
 ## Setup
 ### Clone the repository:
+```branch
 git clone https://github.com/AnndyyRobles/DjangoDiscordBasedWebApp.git
 cd DjangoDiscordBasedWebApp
-
+```
 ### Create and activate a virtual environment:
+```branch
 python -m venv venv
 source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-
+```
 
 ### Install the dependencies:
+```branch
 pip install -r requirements.txt
-
+```
 ### Apply migrations:
+```branch
 python manage.py migrate
-
+```
 ### Create a superuser (optional but recommended for accessing the admin panel):
+```branch
 python manage.py createsuperuser
-
+```
 ### Run the development server:
+```branch
 python manage.py runserver
-
+```
 ### Open your browser and go to http://127.0.0.1:8000/ to see the application in action.
 ![about](https://github.com/AnndyyRobles/DjangoDiscordBasedWebApp/blob/master/imgs/img3.jpg)
 ## Usage
